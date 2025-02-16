@@ -61,10 +61,3 @@ Para rodar os testes, use o comando:
 ```bash
 npm test
 ```
-
-## Critérios de Avaliação
-
-- Lógica de programação
-- Organização (do código e dos arquivos)
-- Proficiência no uso de React Native
-- README, que deve conter, pelo menos, as seguintes informações: sobre o projeto, pré-requisitos e instruções para rodar a aplicação.
